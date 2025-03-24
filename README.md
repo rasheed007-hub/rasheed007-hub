@@ -9,4 +9,4 @@
 - **Tools:** Git, GitHub, Figma, Vercel  
 
 📫 **Connect with me:**  
-[Portfolio](https://oduola-abdulrasheed.vercel.app/) | [LinkedIn](your-linkedin-link) | [Email](mailto:rasheedoduola007@gmail.com)
+[Portfolio](https://oduola-abdulrasheed.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/abdulrasheed-oduola-40ba16296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:rasheedoduola007@gmail.com)
